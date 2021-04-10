@@ -3,7 +3,7 @@
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Quote Generator](#)                             | [Live Demo](#)               |
+| 01  | [Quote Generator](https://github.com/kanjamad/JavaScript-Projects/tree/main/Quote_Generator)                             | [Live Demo](https://kanjamad.github.io/JavaScript-Projects/Quote_Generator/)               |
 | 02  | [Infinity Scroll](#)                             | [Live Demo](#)               |
 
 
